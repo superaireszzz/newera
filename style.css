@@ -45,7 +45,7 @@ body {
 
 .botao_secundario {
     background-color: transparent;
-    border: 2px solid var(--branco-principal);
+    border: 2px solid var(--branco-principal)
 }
 
 .container__aviso {
@@ -63,7 +63,7 @@ body {
 }
 
 .container__caixa {
-    margin: 0 6 em;
+    margin: 0 6em;
 }
 
 .secundario__imagem {
@@ -84,4 +84,13 @@ body {
 
 .descricao__texto {
     color: var(--cinza-secundario);
+}
+
+.secundario__botao {
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.container__descricao {
+    padding: 2em;
 }
